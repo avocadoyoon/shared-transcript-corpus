@@ -1,0 +1,2 @@
+
+Hello, this is the first transcript. It contains some shared words and some unique terms. The tool should find the common words.

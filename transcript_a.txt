@@ -1,0 +1,2 @@
+
+This second transcript also includes some shared words. It also has unique phrases. The tool should identify the common words from both transcripts.
